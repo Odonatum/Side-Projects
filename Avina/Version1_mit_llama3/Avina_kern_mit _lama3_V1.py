@@ -8,7 +8,7 @@ messages = [
     {"role": "system", "content": system_prompt}
 ]
 
-print("Willkommen im Präsidium. Mein Name ist Avina. Ich bin ihre virtuelle Reiseleiterin auf der Tour durch diese Ebene der Citatel-Raumstation.")
+print("Willkommen im Präsidium. Mein Name ist Avina. Ich bin ihre virtuelle Reiseleiterin auf der Tour durch diese Ebene der Citadel-Raumstation.")
 
 while True:
     user_input = input("Du: ")
